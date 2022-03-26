@@ -1,0 +1,12 @@
+This assignment was locked Jan 26, 2021 at 23:59.
+Topic: CNN & LSTM
+
+Please find the Problem statement in the following file: Link
+https://bits-pilani.instructure.com/courses/580/files/126566/download
+
+For any queries feel free to write any of the TA's
+
+Note: Deadline is 19 January, but assignment is available till 26 January.
+
+After 19 January we will be deducting one marks per day till 26 January.
+Assignment submitted after 19 January would not be evaluated.

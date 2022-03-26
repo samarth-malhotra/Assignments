@@ -1,0 +1,24 @@
+General Instructions
+
+1. In case the link to dataset is not useful, same dataset can be downloaded from any online resource.
+
+2. Each group is expected to submit jupyter notebook (.ipynb) with output for each cell.
+
+3. No extension on the deadline
+
+4. Submissions using other python IDEs will not be considered for grading.
+
+NLP Assignment 1
+
+Set 1
+
+Link to the Dataset: https://www.kaggle.com/c/yelp-recsys-2013/data (Links to an external site.) (Links to an external site.)
+
+Description of Data: Each observation in this dataset is a review of a particular business by a particular user. The "stars" column is the number of stars (1 through 5) assigned by the reviewer to the business. (Higher stars is better.) In other words, it is the rating of the business by the person who wrote the review.
+
+Read the yelp.csv file and set it as a Dataframe called yelp. (2 Marks)
+Remove punctuations, special characters and stopwords from the text in ‘text’ column. Convert the text to lower case. (3 Marks)
+Create two objects X and y. X will be the 'text' column of yelp dataframe and y will be the 'stars' column of yelp. create a CountVectorizer object and split the data into training and testing sets. Train a MultinomialNB model and Display the confusion Matrix (5 Marks)
+Display the POS tagging on the first 4 rows of ‘text’ (3 Marks)
+Build and display a dependency parser tree for the sentence :
+“It turned out that Cersei was having an affair with her twin brother, Jaime Lannister — and that all of Robert's supposed children, including his heir, Joffrey, were actually fathered by Jaime.”  ( 2 Marks )

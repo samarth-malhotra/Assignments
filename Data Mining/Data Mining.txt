@@ -1,0 +1,12 @@
+Please find attached the  Assignment_PUN.zip Download Assignment_PUN.zip
+
+The assignment will be released on 10th July to 3rd August (Noon).
+This is a group assignment. Group size is 5 students.
+Groups will be according to your entry in respective batch excel otherwise groups will be formed randomly
+You have to use python for implementation.
+You need to upload your submission ( Solution and source code) as a zip file. As it is a group assignment, only one group member needs to submit the assignment on behalf of the group.
+Thank you.
+
+Regards
+
+Love Arora

@@ -1,0 +1,13 @@
+Problem Statement: The data is related to direct marketing campaigns of a Portuguese banking institution to predict whether a customer will subscribe to a product or not.
+
+
+
+
+Import the data from Bank Marketing (Links to an external site.)  and download bank.zip from DATA FOLDER  section and use bank.csv (1  point)
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Consider all columns as independent variables and assign to variable X except the last column and consider the last column as the dependent variable and assign to variable y. Remove columns which don’t help the problem statement. (1 point)
+Encode all the categorical columns into numeric (1 point)
+Do Feature Scaling on Independent variables (2 points)
+Split the data into train and test dataset (1 point)
+Use Keras to make the neural network model and train the dataset on the same. (4 points)
+Compute the accuracy and confusion matrix. (2 points)
